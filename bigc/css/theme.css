@@ -1019,7 +1019,7 @@ blockquote {
 }
 
 .item-product-info {
-	margin-top: 15px;
+	margin: 15px 0;
 	text-align: center;
 }
 
@@ -1044,7 +1044,7 @@ blockquote {
 }
 
 .info-price span {
-	color: #333;
+	color: #5ab947;
 	font-size: 18px;
 	font-weight: 600;
 }
