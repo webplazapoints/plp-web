@@ -4181,9 +4181,9 @@ Page Product List Mr
 }
 
 .item-contact-box > a {
-	border: 1px solid #0F72B3;
+	border: 1px solid #5ab947;
 	border-radius: 50%;
-	color: #0F72B3;
+	color: #5ab947;
 	display: inline-block;
 	height: 55px;
 	margin-right: 5px;
@@ -4202,7 +4202,7 @@ Page Product List Mr
 	text-transform: uppercase;
 	line-height: 44px;
 	display: inline-block;
-	color: #0F72B3;
+	color: #5ab947;
 }
 
 .contact-info-box {
@@ -7744,7 +7744,7 @@ Page Product List Mr
 }
 
 .btn-box-banner {
-	background: #0F72B3;
+	background: #5ab947;
 	border-radius: 4px;
 	color: #fff;
 	display: inline-block;
@@ -10897,7 +10897,7 @@ a.content-link {
 }
 
 .bg-fucsia {
-	background-color: #0F72B3;
+	background-color: #5ab947;
 	border-radius: 4px;
 }
 

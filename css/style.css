@@ -492,14 +492,14 @@ body {
 /*Boton gris fucsia*/
 
 .button.style-10 {
-	border: 2px solid #0F72B3;
-	background: #0F72B3;
+	border: 2px solid #5ab947;
+	background: #5ab947;
 }
 
 .button.style-10:hover {
 	background: #fff;
 	color: #343434;
-	border: 2px solid #0F72B3;
+	border: 2px solid #5ab947;
 }
 
 /*Boton gris oscuro*/
@@ -1063,7 +1063,7 @@ nav > ul > li > .fa {
 
 nav > ul > li > a:hover,
 nav > ul > li > a.active {
-	color: #0F72B3;
+	color: #5ab947;
 	cursor: pointer;
 }
 
@@ -2581,7 +2581,7 @@ header .icon-entry .text b {
 	}
 	.logo-responsive img {
 		padding: 10px 0;
-		height: 60px;
+		height: 55px;
 	}
 
 	.nav-overflow .col-md-4 {
@@ -2863,7 +2863,7 @@ footer#footer ul {
 }
 
 footer#footer {
-	background-color: #00316B;
+	background-color: #000;
 	padding: 20px 0;
 }
 
@@ -11037,7 +11037,7 @@ body.style-15 .navigation-banner-content .title,
 	font-family: "Open Sans", sans-serif;
 	font-weight: 600;
 	font-size: 16px;
-	color: #0F72B3;
+	color: #5ab947;
 }
 
 .container.puntos .nav-tabs-icon {
@@ -11519,7 +11519,7 @@ body.style-15 .swiper-active-switch {
 }
 
 body.style-15 .bubbles span {
-	background: #0F72B3;
+	background: #5ab947;
 }
 
 body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
@@ -12027,7 +12027,7 @@ body.style-18 .bubbles span {
 }
 
 .article-container ul li:before {
-	color: #0F72B3;
+	color: #5ab947;
 }
 
 .special-item-entry {
@@ -13528,14 +13528,14 @@ span.help-block {
 
 .white .banner-info-text > h2 {
 	font-size: 25px;
-	color: #0F72B3;
+	color: #5ab947;
 	font-weight: 600;
 	margin-bottom: 10px;
 	line-height: 30px;
 	text-shadow: none;
 	letter-spacing: inherit;
 	font-family: "Open Sans", sans-serif;
-	border-bottom: 1px solid #0F72B3;
+	border-bottom: 1px solid #5ab947;
 }
 
 .white .banner-info-text .title {
@@ -13666,7 +13666,7 @@ span.help-block {
 .info-header li.info-pts span {
 	font-size: 16px;
 	font-weight: 700;
-	color: #0F72B3;
+	color: #5ab947;
 	margin: 0 5px;
 }
 
@@ -13889,7 +13889,7 @@ p.result {
 	top: 0;
 	right: 0;
 	font-size: 13px;
-	color: #0F72B3;
+	color: #5ab947;
 	font-family: FontAwesome;
 }
 
