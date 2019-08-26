@@ -7431,8 +7431,9 @@ Page Product List Mr
 
 .accordion-box.style2 .title-accordion {
 	font-size: 13px;
-	padding: 17px 15px 17px 25px;
+/*	padding: 17px 15px 17px 25px;*/
 	text-transform: uppercase;
+	line-height: 15px;
 }
 
 .accordion-box.style3 .title-accordion {
