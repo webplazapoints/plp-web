@@ -10105,11 +10105,12 @@ span.click-button {
 }
 
 .item-product-loadmore .title-product a:hover {
-	color: #1997d4;
+	color: #999;
 }
 
 .item-product-loadmore .title-product {
 	margin: 15px 0 10px;
+	text-align: center;
 }
 
 .item-product-loadmore .info-price span {
@@ -10124,7 +10125,7 @@ span.click-button {
 
 .item-product.item-product-loadmore {
 	background: #fff none repeat scroll 0 0;
-	box-shadow: 1px 3px 2px 0 rgba(0, 0, 0, 0.1);
+/*	box-shadow: 1px 3px 2px 0 rgba(0, 0, 0, 0.1);*/
 	margin: 0 -5px 20px;
 }
 
