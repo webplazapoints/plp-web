@@ -505,15 +505,15 @@ body {
 /*Boton gris oscuro*/
 
 .button.style-3 {
-	background: #252525;
+	background: #999999;
 	color: #fff;
-	border: 2px solid #252525;
+	border: 2px solid #999999;
 }
 
 .button.style-3:hover {
-	color: #252525;
-	background: #f0f0f0;
-	border: 2px solid #252525;
+	color: #333!important;
+	background: #fff!important;
+	border: 2px solid #999999;
 }
 
 .button.style-14 {
@@ -13922,11 +13922,15 @@ p.result {
 */
 
 .premio {
-	background: url(../img/premios/bg-nombre.png) no-repeat;
+	background: url(../img/premios/bg-nombre.png) no-repeat #fff;
 	background-position: center;
 	border-top: 1px solid #e5e5e5;
 	border-left: 1px solid #e5e5e5;
 	border-bottom: 1px solid #e5e5e5;
+}
+
+.gris {
+	background: url(../img/premios/bg-nombre-gris.png) no-repeat #fff;
 }
 
 .box-premio {
@@ -13943,9 +13947,14 @@ p.result {
 	margin: 20px 0 22px
 }
 
+.local {
+	font-weight: 600;
+	margin: 10px 0;
+}
+
 @media (max-width: 1199px) {
 	.premio {
-		background: none;
+		background: #fff;
 		border-right: 1px solid #e5e5e5;
 	}
 	.box-premio {
